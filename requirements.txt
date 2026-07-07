@@ -2,3 +2,5 @@ fastapi
 uvicorn
 watchdog
 pydantic
+psutil
+requests
